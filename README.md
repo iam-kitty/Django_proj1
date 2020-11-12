@@ -1,2 +1,2 @@
-# Django_proj1
+# Django_proj
 Django Tutorial Polls app
